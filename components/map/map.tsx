@@ -47,7 +47,3 @@ const Wrapper = styled.div`
 		display: none;
 	}
 `;
-
-/** 
- pk.eyJ1Ijoic2FkZGFtcyIsImEiOiJja3VmZ3o5a3AxdWJhMnVvMW91bTdieW53In0.aHyMyQahu3VeA6oXZR9plg
- */
